@@ -1,6 +1,6 @@
 module github.com/zoolabs/demos/private-research
 
-go 1.26.3
+go 1.26.4
 
 require (
 	github.com/hanzoai/base v0.25.0
